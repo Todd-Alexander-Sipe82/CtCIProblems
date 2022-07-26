@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a5534a7-ccfa-4243-8b28-4f9794ed4165" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CrackingTheCodingInterviewProblems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1Problems/ProblemOneEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1Problems/ProblemOneFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1Problems/ProblemOneFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1Problems/ProblemOneNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1Problems/ProblemOneOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1Problems/ProblemOneSeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1Problems/ProblemOneSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1Problems/ProblemOneThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1Problems/ProblemOneTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a5534a7-ccfa-4243-8b28-4f9794ed4165" name="Changes" comment="First Local Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +36,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/tasip/IdeaProjects/CrackingTheCodingInterviewProblems"
+    "last_opened_file_path": "C:/Users/tasip/IdeaProjects/CrackingTheCodingInterviewProblems",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -80,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658759641311</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Local Commit">
+      <created>1658856992000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658856992000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Local Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Local Commit" />
   </component>
 </project>
